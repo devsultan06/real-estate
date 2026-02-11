@@ -35,6 +35,15 @@ We utilize **Next.js Server Components** as the default to ensure minimal JavaSc
 
 This hybrid approach ensures excellent **Core Web Vitals** (LCP, CLS) while maintaining a rich user experience.
 
+### Dynamic Routing & Data Fetching
+
+- **Property Details (`/properties/[id]`)**:
+  - Uses `generateStaticParams` to statically generate routes for all properties at build time (SSG), ensuring instant page loads.
+  - Implements `dynamicParams = true` to allow on-demand generation for new properties.
+  - Data is fetched from a centralized mock source (`data/properties.ts`) simulating an API response.
+- **Loading States**:
+  - `loading.tsx` is implemented for the detail page to show a skeleton loader during navigation, enhancing perceived performance.
+
 ## Setup Instructions
 
 1. **Clone the repository**:
@@ -62,12 +71,15 @@ This hybrid approach ensures excellent **Core Web Vitals** (LCP, CLS) while main
    npm start
    ```
 
-## SEO & Accessibility
+## SEO & Performance Checklist
 
-- **Semantic HTML**: Proper use of `<section>`, `<h1>`, `<button>`, etc.
-- **Metadata**: Dynamic metadata for pages (Title, Description).
-- **Responsiveness**: Fully responsive layouts for all device sizes.
-- **Accessibility**: ARIA attributes on interactive elements, keyboard navigation support.
+- [x] **Semantic HTML**: Proper use of `<section>`, `<h1>`, `<nav>`, and landmark roles.
+- [x] **Metadata**: Dynamic title and description for listing pages (`generateMetadata`).
+- [x] **Structured Data**: JSON-LD (`Accommodation` schema) implemented on property detail pages.
+- [x] **Image Optimization**: `next/image` used for automatic resizing, format conversion (WebP/AVIF), and lazy loading.
+- [x] **Core Web Vitals**: Optimized for LCP (Server Components), CLS (Image sizing), and INP (minimal JS).
+- [x] **Accessibility**: ARIA labels on buttons, keyboard navigable interactive elements, and sufficient color contrast.
+- [x] **Responsive Design**: Mobile-first architecture using Tailwind CSS breakpoints.
 
 ## Project Structure
 

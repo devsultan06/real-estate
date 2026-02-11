@@ -52,11 +52,10 @@ export default function PropertiesHero() {
             Find Your Dream Property
           </h1>
           <p className="text-text-secondary text-sm md:text-base leading-relaxed max-w-4xl">
-            Welcome to Estatein, where your dream property awaits in every
-            corner of our beautiful world. Explore our curated selection of
-            properties, each offering a unique story and a chance to redefine
-            your life. With categories to suit every dreamer, your journey
-            begins here.
+            Welcome to Arrivo, where your dream property awaits in every corner
+            of our beautiful world. Explore our curated selection of properties,
+            each offering a unique story and a chance to redefine your life.
+            With categories to suit every dreamer, your journey begins here.
           </p>
         </div>
       </div>

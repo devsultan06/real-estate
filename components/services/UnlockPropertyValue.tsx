@@ -50,10 +50,10 @@ export default function UnlockPropertyValue() {
           </h2>
           <p className="text-text-secondary text-sm md:text-base leading-relaxed max-w-3xl">
             Selling your property should be a rewarding experience, and at
-            Estatein, we make sure it is. Our Property Selling Service is
-            designed to maximize the value of your property, ensuring you get
-            the best deal possible. Explore the categories below to see how we
-            can help you at every step of your selling journey.
+            Arrivo, we make sure it is. Our Property Selling Service is designed
+            to maximize the value of your property, ensuring you get the best
+            deal possible. Explore the categories below to see how we can help
+            you at every step of your selling journey.
           </p>
         </div>
 

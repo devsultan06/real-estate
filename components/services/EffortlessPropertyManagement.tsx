@@ -48,11 +48,11 @@ export default function EffortlessPropertyManagement() {
             Effortless Property Management
           </h2>
           <p className="text-text-secondary text-sm md:text-base leading-relaxed max-w-3xl">
-            Owning a property should be a pleasure, not a hassle.
-            Estatein&apos;s Property Management Service takes the stress out of
-            property ownership, offering comprehensive solutions tailored to
-            your needs. Explore the categories below to see how we can make
-            property management effortless for you.
+            Owning a property should be a pleasure, not a hassle. Arrivo&apos;s
+            Property Management Service takes the stress out of property
+            ownership, offering comprehensive solutions tailored to your needs.
+            Explore the categories below to see how we can make property
+            management effortless for you.
           </p>
         </div>
 

@@ -39,11 +39,11 @@ export default function MeetTheTeam() {
             />
           </div>
           <h2 className="text-[28px] md:text-[36px] lg:text-[40px] text-white mb-4">
-            Meet the Estatein Team
+            Meet the Arrivo Team
           </h2>
           <p className="text-text-secondary text-sm md:text-[15px] leading-relaxed max-w-3xl">
-            At Estatein, our success is driven by the dedication and expertise
-            of our team. Get to know the people behind our mission to make your
+            At Arrivo, our success is driven by the dedication and expertise of
+            our team. Get to know the people behind our mission to make your
             real estate dreams a reality.
           </p>
         </div>

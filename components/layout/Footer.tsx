@@ -103,11 +103,11 @@ export default function Footer() {
             <Link href="/" className="flex items-center gap-2 mb-6">
               <Image
                 src="/images/logo.svg"
-                alt="Estatein Logo"
+                alt="Arrivo Logo"
                 width={34}
                 height={34}
               />
-              <span className="text-white text-xl font-semibold">Estatein</span>
+              <span className="text-white text-xl font-semibold">Arrivo</span>
             </Link>
 
             {/* Email Input */}
@@ -186,7 +186,7 @@ export default function Footer() {
         <div className="max-w-[1500px] mx-auto px-6 py-5 flex flex-col sm:flex-row items-center justify-between gap-4">
           {/* Copyright + Terms */}
           <div className="flex items-center gap-4 text-text-secondary text-sm">
-            <p>@2023 Estatein. All Rights Reserved.</p>
+            <p>@2023 Arrivo. All Rights Reserved.</p>
             <Link
               href="/terms"
               className="hover:text-white transition-colors underline underline-offset-4"

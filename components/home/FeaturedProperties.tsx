@@ -41,8 +41,8 @@ export default function FeaturedProperties() {
             <p className="text-text-secondary text-sm md:text-[15px] leading-relaxed max-w-3xl">
               Explore our handpicked selection of featured properties. Each
               listing offers a glimpse into exceptional homes and investments
-              available through Estatein. Click &quot;View Details&quot; for
-              more information.
+              available through Arrivo. Click &quot;View Details&quot; for more
+              information.
             </p>
           </div>
 

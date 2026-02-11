@@ -15,7 +15,7 @@ const clientsData = [
     domain: "Commercial Real Estate",
     category: "Luxury Home Development",
     quote:
-      "Estatein's expertise in finding the perfect office space for our expanding operations was invaluable. They truly understand our business needs.",
+      "Arrivo's expertise in finding the perfect office space for our expanding operations was invaluable. They truly understand our business needs.",
     website: "#",
   },
   {
@@ -24,7 +24,7 @@ const clientsData = [
     domain: "Commercial Real Estate",
     category: "Retail Space",
     quote:
-      "Estatein's ability to identify prime retail locations helped us expand our brand presence. They are a trusted partner in our growth.",
+      "Arrivo's ability to identify prime retail locations helped us expand our brand presence. They are a trusted partner in our growth.",
     website: "#",
   },
   {
@@ -33,7 +33,7 @@ const clientsData = [
     domain: "Residential Real Estate",
     category: "Investment Properties",
     quote:
-      "Working with Estatein was a game-changer for our real estate portfolio. Their market insights are unmatched.",
+      "Working with Arrivo was a game-changer for our real estate portfolio. Their market insights are unmatched.",
     website: "#",
   },
   {
@@ -42,7 +42,7 @@ const clientsData = [
     domain: "Industrial Real Estate",
     category: "Warehouse Development",
     quote:
-      "Estatein helped us find the perfect industrial space. Their professionalism and attention to detail are second to none.",
+      "Arrivo helped us find the perfect industrial space. Their professionalism and attention to detail are second to none.",
     website: "#",
   },
   {
@@ -51,7 +51,7 @@ const clientsData = [
     domain: "Mixed-Use Development",
     category: "Urban Planning",
     quote:
-      "The team at Estatein brought our vision to life with their innovative approach to mixed-use developments.",
+      "The team at Arrivo brought our vision to life with their innovative approach to mixed-use developments.",
     website: "#",
   },
   {
@@ -60,7 +60,7 @@ const clientsData = [
     domain: "Luxury Real Estate",
     category: "High-End Residential",
     quote:
-      "Estatein's knowledge of the luxury market is exceptional. They found us our dream home effortlessly.",
+      "Arrivo's knowledge of the luxury market is exceptional. They found us our dream home effortlessly.",
     website: "#",
   },
   {
@@ -78,7 +78,7 @@ const clientsData = [
     domain: "Residential Real Estate",
     category: "Family Homes",
     quote:
-      "Estatein made our home-buying experience seamless and stress-free. Highly recommended!",
+      "Arrivo made our home-buying experience seamless and stress-free. Highly recommended!",
     website: "#",
   },
   {
@@ -96,7 +96,7 @@ const clientsData = [
     domain: "Retail Real Estate",
     category: "Shopping Centers",
     quote:
-      "Estatein's market analysis helped us secure prime retail locations across the city.",
+      "Arrivo's market analysis helped us secure prime retail locations across the city.",
     website: "#",
   },
 ];
@@ -127,9 +127,9 @@ export default function OurValuedClients() {
             Our Valued Clients
           </h2>
           <p className="text-text-secondary text-sm md:text-[15px] leading-relaxed max-w-3xl">
-            At Estatein, we have had the privilege of working with a diverse
-            range of clients across various industries. Here are some of the
-            clients we&apos;ve had the pleasure of serving.
+            At Arrivo, we have had the privilege of working with a diverse range
+            of clients across various industries. Here are some of the clients
+            we&apos;ve had the pleasure of serving.
           </p>
         </div>
 

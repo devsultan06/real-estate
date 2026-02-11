@@ -55,11 +55,11 @@ export default function NavigatingExperience() {
             />
           </div>
           <h2 className="text-[28px] md:text-[36px] lg:text-[40px] text-white mb-4">
-            Navigating the Estatein Experience
+            Navigating the Arrivo Experience
           </h2>
           <p className="text-text-secondary text-sm md:text-[15px] leading-relaxed max-w-3xl">
-            At Estatein, we&apos;ve designed a straightforward process to help
-            you find and purchase your dream property with ease. Here&apos;s a
+            At Arrivo, we&apos;ve designed a straightforward process to help you
+            find and purchase your dream property with ease. Here&apos;s a
             step-by-step guide to how it all works.
           </p>
         </div>

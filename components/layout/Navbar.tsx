@@ -33,7 +33,7 @@ export default function Navbar() {
           style={{ backgroundImage: "url('/images/banner.png')" }}
         >
           <div className="max-w-[1400px] mx-auto flex items-center justify-center gap-2 text-sm text-text-primary">
-            <span>✨ Discover Your Dream Property with Estatein.</span>
+            <span>✨ Discover Your Dream Property with Arrivo.</span>
             <Link
               href="/properties"
               className="text-text-primary underline underline-offset-4 hover:text-primary transition-colors ml-1"
@@ -46,9 +46,21 @@ export default function Navbar() {
             className="absolute right-4 top-1/2 -translate-y-1/2 bg-surface rounded-[75px] text-text-secondary hover:text-white transition-colors p-1"
             aria-label="Close banner"
           >
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
-  <path d="M6 18L18 6M6 6L18 18" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+              fill="none"
+            >
+              <path
+                d="M6 18L18 6M6 6L18 18"
+                stroke="white"
+                stroke-width="1.5"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
           </button>
         </div>
       )}
@@ -63,12 +75,12 @@ export default function Navbar() {
           >
             <Image
               src="/images/logo.svg"
-              alt="Estatein Logo"
+              alt="Arrivo Logo"
               width={34}
               height={34}
             />
             <span className="text-white text-xl font-semibold tracking-tight">
-              Estatein
+              Arrivo
             </span>
           </Link>
 

@@ -36,7 +36,7 @@ export default function ServicesHero() {
             Elevate Your Real Estate Experience
           </h1>
           <p className="text-text-secondary text-sm md:text-base leading-relaxed max-w-4xl">
-            Welcome to Estatein, where your real estate aspirations meet expert
+            Welcome to Arrivo, where your real estate aspirations meet expert
             guidance. Explore our comprehensive range of services, each designed
             to cater to your unique needs and dreams.
           </p>

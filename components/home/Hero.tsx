@@ -16,7 +16,7 @@ export default function Hero() {
         <div className="flex-1 px-6 md:px-10 lg:pl-[max(2rem,calc((100vw-1500px)/2+2rem))] lg:pr-10 pt-12 pb-10 lg:pt-[230px] lg:pb-16 flex flex-col bg-[#141414] justify-center">
           {/* Heading */}
           <h1 className="text-[28px] -mt-[30px] sm:text-[40px] lg:text-[46px] font-medium leading-[1.2] text-white">
-            Discover Your Dream Property with Estatein
+            Discover Your Dream Property with Arrivo
           </h1>
 
           {/* Description */}

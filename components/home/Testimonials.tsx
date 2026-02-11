@@ -16,7 +16,7 @@ const testimonialsData: TestimonialItem[] = [
   {
     title: "Exceptional Service!",
     review:
-      "Our experience with Estatein was outstanding. Their team's dedication and professionalism made finding our dream home a breeze. Highly recommended!",
+      "Our experience with Arrivo was outstanding. Their team's dedication and professionalism made finding our dream home a breeze. Highly recommended!",
     name: "Wade Warren",
     location: "USA, California",
     avatar: "/images/Profile.svg",
@@ -25,7 +25,7 @@ const testimonialsData: TestimonialItem[] = [
   {
     title: "Efficient and Reliable",
     review:
-      "Estatein provided us with top-notch service. They helped us sell our property quickly and at a great price. We couldn't be happier with the results.",
+      "Arrivo provided us with top-notch service. They helped us sell our property quickly and at a great price. We couldn't be happier with the results.",
     name: "Emelie Thomson",
     location: "USA, Florida",
     avatar: "/images/Profile (1).svg",
@@ -34,7 +34,7 @@ const testimonialsData: TestimonialItem[] = [
   {
     title: "Trusted Advisors",
     review:
-      "The Estatein team guided us through the entire buying process. Their knowledge and commitment to our needs were impressive. Thank you for your support!",
+      "The Arrivo team guided us through the entire buying process. Their knowledge and commitment to our needs were impressive. Thank you for your support!",
     name: "John Mans",
     location: "USA, Nevada",
     avatar: "/images/Profile (2).svg",
@@ -43,7 +43,7 @@ const testimonialsData: TestimonialItem[] = [
   {
     title: "Outstanding Results",
     review:
-      "Working with Estatein was a game-changer. Their market insights and negotiation skills helped us secure the perfect investment property.",
+      "Working with Arrivo was a game-changer. Their market insights and negotiation skills helped us secure the perfect investment property.",
     name: "Sarah Mitchell",
     location: "USA, Texas",
     avatar: "/images/Profile.svg",
@@ -52,7 +52,7 @@ const testimonialsData: TestimonialItem[] = [
   {
     title: "Seamless Experience",
     review:
-      "From start to finish, Estatein made the entire process smooth and stress-free. Their attention to detail is truly unmatched in the industry.",
+      "From start to finish, Arrivo made the entire process smooth and stress-free. Their attention to detail is truly unmatched in the industry.",
     name: "Michael Chen",
     location: "USA, New York",
     avatar: "/images/Profile (1).svg",
@@ -61,7 +61,7 @@ const testimonialsData: TestimonialItem[] = [
   {
     title: "Highly Professional",
     review:
-      "The team at Estatein went above and beyond to find us our dream home. Their expertise and patience throughout the process were remarkable.",
+      "The team at Arrivo went above and beyond to find us our dream home. Their expertise and patience throughout the process were remarkable.",
     name: "Lisa Anderson",
     location: "USA, Colorado",
     avatar: "/images/Profile (2).svg",
@@ -70,7 +70,7 @@ const testimonialsData: TestimonialItem[] = [
   {
     title: "Best in the Business",
     review:
-      "Estatein's approach to real estate is refreshingly transparent. They kept us informed at every step and delivered exceptional value.",
+      "Arrivo's approach to real estate is refreshingly transparent. They kept us informed at every step and delivered exceptional value.",
     name: "David Park",
     location: "USA, Washington",
     avatar: "/images/Profile.svg",
@@ -79,7 +79,7 @@ const testimonialsData: TestimonialItem[] = [
   {
     title: "Incredible Support",
     review:
-      "We were first-time buyers and Estatein made everything so easy to understand. Their guidance throughout the entire journey was invaluable.",
+      "We were first-time buyers and Arrivo made everything so easy to understand. Their guidance throughout the entire journey was invaluable.",
     name: "Rachel Green",
     location: "USA, Oregon",
     avatar: "/images/Profile (1).svg",
@@ -88,7 +88,7 @@ const testimonialsData: TestimonialItem[] = [
   {
     title: "A Pleasure to Work With",
     review:
-      "Estatein truly cares about their clients. They listened to our needs and found us the perfect property within our budget. Amazing team!",
+      "Arrivo truly cares about their clients. They listened to our needs and found us the perfect property within our budget. Amazing team!",
     name: "James Wilson",
     location: "USA, Arizona",
     avatar: "/images/Profile (2).svg",
@@ -97,7 +97,7 @@ const testimonialsData: TestimonialItem[] = [
   {
     title: "Exceeded Expectations",
     review:
-      "From market analysis to closing, Estatein's team demonstrated unparalleled professionalism. They made selling our home effortless.",
+      "From market analysis to closing, Arrivo's team demonstrated unparalleled professionalism. They made selling our home effortless.",
     name: "Emma Davis",
     location: "USA, Georgia",
     avatar: "/images/Profile.svg",
@@ -135,7 +135,7 @@ export default function Testimonials() {
             </h2>
             <p className="text-text-secondary text-sm md:text-[15px] leading-relaxed max-w-3xl">
               Read the success stories and heartfelt testimonials from our
-              valued clients. Discover why they chose Estatein for their real
+              valued clients. Discover why they chose Arrivo for their real
               estate needs.
             </p>
           </div>

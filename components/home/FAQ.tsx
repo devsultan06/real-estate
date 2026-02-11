@@ -12,19 +12,19 @@ import Image from "next/image";
 
 const faqData: FAQItem[] = [
   {
-    question: "How do I search for properties on Estatein?",
+    question: "How do I search for properties on Arrivo?",
     answer:
       "Learn how to use our user-friendly search tools to find properties that match your criteria.",
     href: "/faq",
   },
   {
-    question: "What documents do I need to sell my property through Estatein?",
+    question: "What documents do I need to sell my property through Arrivo?",
     answer:
       "Find out about the necessary documentation for listing your property with us.",
     href: "/faq",
   },
   {
-    question: "How can I contact an Estatein agent?",
+    question: "How can I contact an Arrivo agent?",
     answer:
       "Discover the different ways you can get in touch with our experienced agents.",
     href: "/faq",
@@ -32,7 +32,7 @@ const faqData: FAQItem[] = [
   {
     question: "What are the fees associated with buying a property?",
     answer:
-      "Get a clear breakdown of all costs involved in purchasing a property through Estatein.",
+      "Get a clear breakdown of all costs involved in purchasing a property through Arrivo.",
     href: "/faq",
   },
   {
@@ -42,13 +42,13 @@ const faqData: FAQItem[] = [
     href: "/faq",
   },
   {
-    question: "Can I get a mortgage through Estatein?",
+    question: "Can I get a mortgage through Arrivo?",
     answer:
       "Learn about our partnerships with financial institutions to help you secure funding.",
     href: "/faq",
   },
   {
-    question: "What types of properties does Estatein offer?",
+    question: "What types of properties does Arrivo offer?",
     answer:
       "Explore our diverse portfolio of residential, commercial, and luxury properties.",
     href: "/faq",
@@ -102,7 +102,7 @@ export default function FAQ() {
               Frequently Asked Questions
             </h2>
             <p className="text-text-secondary text-sm md:text-[15px] leading-relaxed max-w-3xl">
-              Find answers to common questions about Estatein&apos;s services,
+              Find answers to common questions about Arrivo&apos;s services,
               property listings, and the real estate process. We&apos;re here to
               provide clarity and assist you every step of the way.
             </p>
